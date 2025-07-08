@@ -77,7 +77,7 @@ on:
 ```YAML
     needs: use-environment-uat
 ```
-8. Commit the changes into the `main` branch
+8. Commit the changes into the `main` branch (like this)
 9. Go to `Actions` and see the details of your running workflow
 10. Review your deployment and approve the pending UAT job
     - [Reviewing deployments](https://docs.github.com/en/actions/managing-workflow-runs/reviewing-deployments)
